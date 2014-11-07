@@ -10,6 +10,7 @@ gem 'jquery-rails', '3.1.2'
 gem 'turbolinks', '2.3.0'
 gem 'jbuilder', '2.1.3'
 gem 'bcrypt', '3.1.7'
+gem 'feedlr'
 
 # Kaminari: https://github.com/amatsuda/kaminari
 gem 'kaminari', '0.16.1'
